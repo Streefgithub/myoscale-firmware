@@ -3,6 +3,6 @@
   "version": "2.4",
   "builds": [{
     "chipFamily": "ESP32",
-    "parts": [{ "path": "https://re-mind.care/wp-content/uploads/2026/MyoScale/MyoScale_v2.4.bin", "offset": 0 }]
+    "parts": [{ "path": "https://streefgithub.github.io/myoscale-firmware/MyoScale_v2.4.bin", "offset": 0 }]
   }]
 }
